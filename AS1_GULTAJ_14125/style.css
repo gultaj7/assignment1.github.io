@@ -32,10 +32,6 @@ body {
     width: 96%;
   }
 
-  .photo {
-    border-radius: 50%;
-    width: 200px;
-  }
 
   nav {
     display: flex;
@@ -60,4 +56,10 @@ nav ul li a{
 
 nav ul li a:hover {
     color: blue;
+}
+
+.image {
+  border-radius: 50%;
+  width: 400px;
+  height: 400px;
 }
