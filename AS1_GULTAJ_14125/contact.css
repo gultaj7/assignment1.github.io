@@ -1,0 +1,27 @@
+table {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    width: 100%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-block: 30px;
+}
+tr:nth-child(odd) {background-color: white;}
+tr:nth-child(even) {background-color: #d0ebff;}
+
+td {
+    height: 50px;
+    vertical-align: center;
+  }
+
+h2 {
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+body {
+    background-color: #1864ab;
+}
